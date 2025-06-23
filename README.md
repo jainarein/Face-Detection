@@ -39,24 +39,6 @@ python face_detection.py
 
 ---
 
-## 💻 Code Preview
-
-```python
-cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
-```
-
----
-
-## 📸 Screenshot (Optional)
-
-You can add a screenshot here:
-
-```markdown
-![Face Detection Example](screenshot.jpg)
-```
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -72,14 +54,6 @@ Face-Detection-App/
 - [OpenCV Documentation](https://docs.opencv.org/)
 - [Haar Cascades in OpenCV](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
----
-
-## 🧑‍💻 Author
-
-Made with ❤️ by **Arein Jain**  
-GitHub: [@jainarein](https://github.com/jainarein)
-
----
 
 ## 📃 License
 
